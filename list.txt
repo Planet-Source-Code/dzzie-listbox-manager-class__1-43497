@@ -1,0 +1,8 @@
+this 
+is 
+an example
+delimited file
+it can 
+load with
+one line
+of code
